@@ -11,8 +11,8 @@ android {
         applicationId "com.networks.all"
         minSdk 19
         targetSdk 30
-        versionCode 3
-        versionName "1.2"
+        versionCode 4
+        versionName "1.3"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -36,5 +36,5 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.3.1'
     implementation 'com.google.android.material:material:1.4.0'
     //Caramel
-    implementation 'com.caramelads:sdk:10.6.0'
+    implementation 'com.caramelads:sdk:10.7.0.0'
 }
