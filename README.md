@@ -139,7 +139,7 @@ You can download an example and review the functionality by looking at the comme
             ...
           }
 
-3. Example:
+3. Пример использования:
 
           ...
           override fun onCreate(savedInstanceState: Bundle?) {
@@ -192,6 +192,8 @@ You can download an example and review the functionality by looking at the comme
                    }
             } 
           }
+
+---
 
 ### Показ рекламы:
 
