@@ -36,5 +36,5 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.11.0'
     //Caramel
-    implementation 'com.caramelads:sdk:10.10.6.0'
+    implementation 'com.caramelads:sdk:10.10.6.1'
 }
